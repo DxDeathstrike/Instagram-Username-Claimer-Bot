@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "email": "test1@outlook.com",
+            "password": "test$"
+        },
+        {
+            "email": "test2@outlook.com",
+            "password": "test$"
+        },
+        {
+            "email": "test3@outlook.com",
+            "password": "test$"
+        },
+        {
+            "email": "test4@outlook.com",
+            "password": "test$"
+        },
+        {
+            "email": "test5@outlook.com",
+            "password": "test$"
+        }
+    ]
+}
