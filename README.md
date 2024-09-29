@@ -5,6 +5,7 @@
 
 **Note:** The source code for this script will not be made publicly available; however, it can be requested upon direct contact.
 
+![Instagram Username Claimer](https://github.com/user-attachments/assets/bd1b7072-da22-4fd6-95fb-8bb9d1da6332)
 
 ## Table of Contents
 - [Requirements](#requirements)
